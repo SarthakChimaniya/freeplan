@@ -2,7 +2,7 @@ body{
 display: flex;
 width: 962px;
 height: 427px;
-position: absolute;
+position: absolute; /* this is third commit */
 top: 25px;
 left: -8px;
 padding-top: 32px;
